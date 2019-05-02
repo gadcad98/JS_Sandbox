@@ -36,7 +36,7 @@ console.log(typeof val);
 // console.log(val.length); // .length for Strings
 console.log(val.toFixed(5)); // .toFixed for Numbers
 
-// ----------------- TYPE COERSION ----------------
+// ----------------- TYPE COERCION ----------------
 
 const val1 = String(5);
 const val2 = 6;
